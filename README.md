@@ -96,7 +96,6 @@ The dashboard consists of **5 interactive pages**:
 - Microsoft Power BI
 - DAX
 - Power Query
-- Microsoft Excel
 - Data Cleaning
 - Data Transformation
 - Data Modeling
