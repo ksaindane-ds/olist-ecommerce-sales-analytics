@@ -157,31 +157,31 @@ The dataset contains Brazilian e-commerce order data from Olist along with infor
 
 ### 📌 Page 1 – Olist Sales Overview
 
-![Sales Overview](screenshots/page1-sales-overview.jpg)
+![Sales Overview](Sales_Overview.jpg)
 
 ---
 
 ### 📌 Page 2 – Olist Customer Insights
 
-![Customer Insights](screenshots/page2-customer-insights.jpg)
+![Customer Insights](Customer_Insights.jpg)
 
 ---
 
 ### 📌 Page 3 – Olist Product Analysis
 
-![Product Analysis](screenshots/page3-product-analysis.jpg)
+![Product Analysis](Product_Analysis.jpg)
 
 ---
 
 ### 📌 Page 4 – Olist Orders & Delivery
 
-![Orders & Delivery](screenshots/page4-orders-delivery.jpg)
+![Orders & Delivery](Orders_Delivery.jpg)
 
 ---
 
 ### 📌 Page 5 – Olist Customer Analysis
 
-![Customer Analysis](screenshots/page5-customer-analysis.jpg)
+![Customer Analysis](Customer_Analysis.jpg)
 
 ---
 
@@ -224,13 +224,66 @@ The dataset contains Brazilian e-commerce order data from Olist along with infor
 ```text
 olist-ecommerce-sales-analytics/
 │
-├──
-├──
-├──
-├──
-├──
-├──
-├──
-├──
-├──
+├── Olist_Ecommerce_Sales_Analytics.pdf
+├── Background.jpg
+├── Logo.png
+├── Sales_Overview.jpg
+├── Customer_Insights.jpg
+├── Product_Analysis.jpg
+├── Orders_Delivery.jpg
+├── Customer_Analysis.jpg
+├── LICENSE
 └── README.md
+```
+
+---
+
+## 📥 Project Files
+
+### Power BI Dashboard & Dataset
+
+The complete Power BI dashboard and source dataset are hosted externally due to GitHub file-size limitations.
+
+[📂 Access Power BI Dashboard & Dataset](https://drive.google.com/drive/folders/1vnqkXezGVakY7_DPZJ_Lrj66uWq2QHbY?usp=sharing)
+
+---
+
+# 📌 Conclusion
+
+This Olist E-Commerce Sales Analytics Dashboard demonstrates how raw e-commerce data can be transformed into meaningful business insights using Power BI.
+
+The project analyzes e-commerce performance across **sales, customers, products, orders, payment methods, states, customer behavior, and delivery performance** through interactive visualizations, slicers, KPI cards, and analytical dashboards.
+
+By completing this project, I strengthened my skills in:
+
+- Power BI Dashboard Development
+- DAX Calculations
+- Power Query
+- Data Cleaning & Transformation
+- Data Modeling
+- Interactive Reports
+- Data Visualization
+- Business Intelligence
+- Exploratory Data Analysis
+- Sales Analytics
+- Customer Analytics
+- Product Analytics
+- Order & Delivery Analytics
+
+This project reflects my ability to build **end-to-end data analytics solutions** and transform complex e-commerce datasets into clear and actionable business insights.
+
+---
+
+# 👨‍💻 Developed By
+
+**Krushna Saindane**
+
+📧 Email: `krushnasaindane875@gmail.com`
+
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ksaindane/)
+
+🌐 GitHub: [GitHub Profile](https://github.com/ksaindane-ds)
+
+---
+
+## ⭐ If you like this project, don't forget to Star ⭐ the repository.
